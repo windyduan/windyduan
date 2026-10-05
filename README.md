@@ -13,11 +13,11 @@
 
 ### 最近在好奇什么
 
-我经常折腾 **agents 和工具链**，也对科学计算、开发者工具、可视化、学习系统，以及各种有趣的软件感兴趣。**AI for Science 只是我认可并在探索的科研方向之一，不是全部。**
+我经常折腾 **agents 和工具链**，也会主动去学不同的求职方向和学术热点：**AI、Agents、AI for Science、科学计算、开发者工具、可视化、ML systems**……都可能成为一段时间里的学习主题。它们是探索方向，不是身份标签。
 
 兴趣可以很多，方向也会变化。我不太想用一个标签解释所有东西；比起“擅长什么”的长列表，更愿意留下能点开、能复现、能讨论的工作。
 
-*I spend a lot of time tinkering with agents and toolchains, and I am also curious about scientific computing, developer tools, visualization, learning systems, and whatever software happens to be interesting. AI for Science is one research direction I value and explore, not the whole story. I would rather leave behind work that can be inspected, reproduced, or discussed than a long list of labels.*
+*I spend a lot of time tinkering with agents and toolchains, and I deliberately sample different job directions and research topics: AI, Agents, AI for Science, scientific computing, developer tools, visualization, ML systems, and whatever looks worth learning next. These are directions to explore, not identity labels. I would rather leave behind work that can be inspected, reproduced, or discussed than a long list of labels.*
 
 ### 一些公开项目
 
