@@ -2,38 +2,37 @@
 
 # windyduan
 
-**做一点研究，也做一点东西。**  
-*Researching a little. Building a little.*
+**嗨，我是 windyduan。喜欢把新东西拆开看看，再顺手做点东西。**
 
-[个人主页 / Homepage](https://windyduan.github.io/) · [AI4S-Chem](https://ai4s.do123.eu.org/) · [Try](https://try.do123.eu.org/)
+[个人主页](https://windyduan.github.io/) · [AI4S-Chem](https://ai4s.do123.eu.org/) · [Try](https://try.do123.eu.org/)
 
 </div>
 
 ---
 
-### 最近在好奇什么
+### 最近在看
 
-我经常折腾 **agents 和工具链**，也会主动去学不同的求职方向和学术热点：**AI、Agents、AI for Science、科学计算、开发者工具、可视化、ML systems**……都可能成为一段时间里的学习主题。它们是探索方向，不是身份标签。
+最近会花不少时间学 **AI**。里面会看 Agents、具身智能、AI Infra、AI for Science、ML systems，也想试试 AI 创作。
 
-兴趣可以很多，方向也会变化。我不太想用一个标签解释所有东西；比起“擅长什么”的长列表，更愿意留下能点开、能复现、能讨论的工作。
+AI 之外，我也喜欢软件、可视化、学习工具和各种突然冒出来的小项目。方向会变，兴趣也可以很多；看到值得学的东西，就先进去看看。
 
-*I spend a lot of time tinkering with agents and toolchains, and I deliberately sample different job directions and research topics: AI, Agents, AI for Science, scientific computing, developer tools, visualization, ML systems, and whatever looks worth learning next. These are directions to explore, not identity labels. I would rather leave behind work that can be inspected, reproduced, or discussed than a long list of labels.*
+*I spend a fair amount of time learning AI — agents, embodied AI, AI infrastructure, AI for Science, ML systems, and creative AI. Outside AI, I am also interested in software, visualization, learning tools, and whatever side quest looks interesting.*
 
 ### 一些公开项目
 
-- **[AI4S-Chem](https://github.com/windyduan/AI4S-Chem)** — 面向 AI 初学者的双语交互课程，把基础、训练、泛化和 AI × Chemistry 科研案例连起来。
-- **[Try](https://github.com/windyduan/try)** — 双语互动式深度学习阅读器，包含实验、笔记、模型资料、学习进度和知识网络。
-- 其他小项目、实验和 side quests 会慢慢整理到 [个人主页](https://windyduan.github.io/)。
+- **[AI4S-Chem](https://github.com/windyduan/AI4S-Chem)** — 一个双语交互课程，把 AI 基础和 AI × Chemistry 的科研案例连起来。
+- **[Try](https://github.com/windyduan/try)** — 一个双语互动式深度学习阅读器，包含实验、笔记、模型资料、进度和知识网络。
+- 其他公开项目、论文和 side quests 会慢慢整理到 [个人主页](https://windyduan.github.io/)。
 
-### 开源
+### 一些开源小补充
 
-很感谢开源社区、维护者和原作者已经做好的大量工作。
+很感谢维护者和原作者已经做好的工作。下面这些只是我在使用过程中补上的小东西：
 
-我偶尔会在使用过程中补一些 **bug fix、文档、验证或小功能**。这些只是建立在已有项目上的小补充；如果恰好能帮到别人，就很好。
-
-> 少一点自我包装，多一点可以点开的证据。  
-> *Less self-branding. More evidence you can click.*
+- **[dsh-boot-animation issue #3](https://github.com/NativeDog1/dsh-boot-animation/issues/3)** — 提议 conversation-level override；上游 **0.4.0** 按这个方向实现，并在 [CHANGELOG](https://github.com/NativeDog1/dsh-boot-animation/blob/main/CHANGELOG.md#040--2026-09-30) 里注明来自 issue #3（@windyduan）。
+- **[dsh-boot-animation PR #2](https://github.com/NativeDog1/dsh-boot-animation/pull/2)** — 客户端生命周期修复，已经 merge；上游 **0.3.0** 的 [CHANGELOG](https://github.com/NativeDog1/dsh-boot-animation/blob/main/CHANGELOG.md#030--2026-09-29) 单独记录了这次社区贡献。
+- **[world-execute-me-dsh-pv PR #5](https://github.com/MisakaZentai/world-execute-me-dsh-pv/pull/5)** — 可选 60 fps FFmpeg 导出流程与验证记录，已于 **2026-10-06** merge。
+- **[dsh-boot-animation PR #4](https://github.com/NativeDog1/dsh-boot-animation/pull/4)** — per-session clip memory 的后续尝试，目前还在讨论中。
 
 ---
 
-<sub>未公开的科研工作不会提前写在这里。论文、经历和 CV 会在适合公开时再补。</sub>
+<sub>未公开的科研工作不会提前放在这里。论文、经历、CV 和联系方式适合公开时再补。</sub>
